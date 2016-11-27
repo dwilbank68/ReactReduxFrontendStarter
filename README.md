@@ -1,3 +1,8 @@
+### Features
+
+    jwt authentication
+
+built for backend at 
 https://wilbanks-node-api.herokuapp.com/
 
 npm run start
